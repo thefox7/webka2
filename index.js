@@ -15,7 +15,7 @@ if (!process.env.JWT_SECRET) {
     process.env.JWT_SECRET = 'default-secret-key-123';
 }
 
-mongoose.connect('mongodb://127.0.0.1:27017/todoapp')
+mongoose.connect('mongodb+srv://asd:asdasd@cluster0.8zrx3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
     .then(() => console.log('MongoDB connected'))
     .catch(err => console.error('MongoDB connection error:', err));
 
