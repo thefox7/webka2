@@ -1,0 +1,20 @@
+# TodoApp - Note-taking Application
+
+## Description
+
+**TodoApp** is a simple and intuitive web application for creating, managing, and organizing your notes. Whether you're tracking tasks, writing ideas, or managing a to-do list, TodoApp offers a seamless experience to help you stay organized and productive.
+
+## Features
+
+- **Create Notes**: Add new notes with titles and descriptions.
+- **Edit Notes**: Modify existing notes to update their content.
+- **Delete Notes**: Remove notes that are no longer needed.
+- **Mark Notes as Completed**: Keep track of finished tasks by marking them as completed.
+- **Responsive Design**: The app is fully responsive, designed to work on both mobile and desktop devices.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript (Vanilla JS or React)
+- **Backend**: Node.js with Express (optional, depending on your app's structure)
+- **Database**: Local storage or MongoDB (if you're using a backend)
+- **Version Control**: Git, GitHub
