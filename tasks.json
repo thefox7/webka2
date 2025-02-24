@@ -1,0 +1,146 @@
+[
+    {
+      "task_id": 1,
+      "title": "Купить продукты",
+      "description": "Молоко, яйца, хлеб, овощи",
+      "completed": false,
+      "due_date": "2025-02-10T00:00:00Z",
+      "assigned_to": {
+        "user_id": 1,
+        "name": "Иван Иванов"
+      },
+      "comments": [
+        {
+          "comment_id": 1,
+          "user_id": 2,
+          "comment": "Проверьте срок годности молока."
+        },
+        {
+          "comment_id": 2,
+          "user_id": 3,
+          "comment": "Не забудьте купить свежие овощи."
+        }
+      ]
+    },
+    {
+      "task_id": 2,
+      "title": "Написать отчёт",
+      "description": "Подготовить отчёт по проекту",
+      "completed": true,
+      "due_date": "2025-02-04T00:00:00Z",
+      "assigned_to": {
+        "user_id": 2,
+        "name": "Алексей Смирнов"
+      },
+      "comments": [
+        {
+          "comment_id": 1,
+          "user_id": 1,
+          "comment": "Проверьте данные перед отправкой."
+        }
+      ]
+    },
+    {
+      "task_id": 3,
+      "title": "Позвонить клиенту",
+      "description": "Обсудить детали контракта",
+      "completed": false,
+      "due_date": "2025-02-06T00:00:00Z",
+      "assigned_to": {
+        "user_id": 3,
+        "name": "Мария Петрова"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 4,
+      "title": "Составить расписание",
+      "description": "Подготовить расписание на неделю",
+      "completed": false,
+      "due_date": "2025-02-07T00:00:00Z",
+      "assigned_to": {
+        "user_id": 4,
+        "name": "Ольга Иванова"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 5,
+      "title": "Проверить почту",
+      "description": "Ответить на важные письма",
+      "completed": true,
+      "due_date": "2025-02-03T00:00:00Z",
+      "assigned_to": {
+        "user_id": 1,
+        "name": "Иван Иванов"
+      },
+      "comments": [
+        {
+          "comment_id": 1,
+          "user_id": 2,
+          "comment": "Не забудьте ответить на письмо от клиента."
+        }
+      ]
+    },
+    {
+      "task_id": 6,
+      "title": "Обновить сайт",
+      "description": "Внести изменения в раздел новостей",
+      "completed": false,
+      "due_date": "2025-02-08T00:00:00Z",
+      "assigned_to": {
+        "user_id": 2,
+        "name": "Алексей Смирнов"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 7,
+      "title": "Подготовить презентацию",
+      "description": "Сделать презентацию по проекту",
+      "completed": false,
+      "due_date": "2025-02-12T00:00:00Z",
+      "assigned_to": {
+        "user_id": 3,
+        "name": "Мария Петрова"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 8,
+      "title": "Проверить документы",
+      "description": "Проанализировать и подтвердить документы",
+      "completed": false,
+      "due_date": "2025-02-09T00:00:00Z",
+      "assigned_to": {
+        "user_id": 4,
+        "name": "Ольга Иванова"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 9,
+      "title": "Ремонт оборудования",
+      "description": "Провести диагностику и ремонт оборудования",
+      "completed": false,
+      "due_date": "2025-02-11T00:00:00Z",
+      "assigned_to": {
+        "user_id": 1,
+        "name": "Иван Иванов"
+      },
+      "comments": []
+    },
+    {
+      "task_id": 10,
+      "title": "Обновить контактную информацию",
+      "description": "Обновить данные на сайте компании",
+      "completed": true,
+      "due_date": "2025-02-01T00:00:00Z",
+      "assigned_to": {
+        "user_id": 2,
+        "name": "Алексей Смирнов"
+      },
+      "comments": []
+    }
+  ]
+  

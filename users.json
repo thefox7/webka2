@@ -1,0 +1,53 @@
+[
+    {
+      "user_id": 1,
+      "email": "ivan.ivanov@email.com",
+      "password": "password123"
+    },
+    {
+      "user_id": 2,
+      "email": "alexey.smirnov@email.com",
+      "password": "securepass456"
+    },
+    {
+      "user_id": 3,
+      "email": "maria.petrova@email.com",
+      "password": "mypassword789"
+    },
+    {
+      "user_id": 4,
+      "email": "olga.ivanova@email.com",
+      "password": "strongpass101"
+    },
+    {
+      "user_id": 5,
+      "email": "dmitry.kovalev@email.com",
+      "password": "dmitrypass234"
+    },
+    {
+      "user_id": 6,
+      "email": "elena.popova@email.com",
+      "password": "elenapass567"
+    },
+    {
+      "user_id": 7,
+      "email": "sergey.nikitin@email.com",
+      "password": "sergey1234"
+    },
+    {
+      "user_id": 8,
+      "email": "tatiana.morozova@email.com",
+      "password": "tatianapass678"
+    },
+    {
+      "user_id": 9,
+      "email": "andrey.kuznetsov@email.com",
+      "password": "andrey2345"
+    },
+    {
+      "user_id": 10,
+      "email": "irina.frolova@email.com",
+      "password": "irina5678"
+    }
+  ]
+  
